@@ -1,0 +1,1 @@
+This repository covers projects completed for term 2 Machine Learning which covered KNN, SVM, Trees, Naive-Bayes, Ensemble Models (Bagging, Boosting, Stacking), Advanced Feature Engineering Techniques, Evaluation Metrics and pipeline design.
