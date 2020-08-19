@@ -4,8 +4,12 @@ This repository comprises of several projects completed in IE HST's MS in Busine
 
 ## Machine Learning I
 
+### 1. Madrid Housing Regression
+
+### 2. Solar Energy Prediction
+
 ## Machine Learning II
 
-### 1. HR Turnover
+### 3. HR Turnover
 
-### 2. Driven Data: Water Pump Classification
+### 4. Driven Data: Water Pump Classification
