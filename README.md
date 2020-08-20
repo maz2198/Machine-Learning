@@ -12,6 +12,13 @@ This repository comprises of several projects completed in IE HST's MS in Busine
 
 ### 3. HR Turnover
 
+The main purpose of this project is to model the probability of attrition (employees leaving, either on their own or because they got fired) of each individual, as well as to understand which variables are the most important ones and need to be addressed right away using *only* **Logistic Regression**. The two main objectives of this project are to:
+-highlight the importance of the feature engineering process.
+
+To be able to build a predictive model on this data, I first start a thorough exploration of the data, I then create a baseline model that I improve on by applying Feature Engineering.
+
+This is an individual work and the code can be found in the folder 3_HR_Dataset_Feature_Engineering and the dataset is from Kaggle and can be found [here](https://www.kaggle.com/giripujar/hr-analytics).
+
 ### 4. Driven Data: Water Pump Classification
 
 Using data from Taarifa and the Tanzanian Ministry of Water, we were tasked to predict which pumps are functional, which need some repairs, and which don't work at all? Predict one of these three classes (multi-classification) based on a number of variables about what kind of pump is operating, when it was installed, and how it is managed. The reason is a smart understanding of which waterpoints will fail can improve maintenance operations and ensure that clean, portable water is available to communities across Tanzania.
