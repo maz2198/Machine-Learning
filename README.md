@@ -6,7 +6,11 @@ This repository comprises of several projects completed in IE HST's MS in Busine
 
 ### 1. Madrid Housing Regression
 
-### 2. Solar Energy Prediction
+### 2. Solar Energy Production Prediction
+
+The main objective of this project is to discover which machine learning methods would provide the best short term predictions of solar energy production. This project is based on a Kaggle Competition: [2014 AMES Solar Competition]https://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest/overview.
+
+We were provided pre-processed data with PCA that we had to model. An extensive EDA, `SOLAR_EDA.R`, was completed and decision on how to model each station was made and can be found [here](https://github.com/maz2198/Machine-Learning/blob/master/ML1/SolarEnergyPrediction/SOLAR_EDA.R). Numerous approaches were taken including a Random Forest Regressor,`SOLAR_RandomForest.R` and the attempt can be found [here](https://github.com/maz2198/Machine-Learning/blob/master/ML1/SolarEnergyPrediction/SOLAR_RandomForest.R). However, the best model was a hyperparamter tuned SVM, `SOLAR_SupportVectorMachines.R` and can be found [bestSolarModel](https://github.com/maz2198/Machine-Learning/blob/master/ML1/SolarEnergyPrediction/SOLAR_SupportVectorMachines.R).
 
 ## Machine Learning II
 
