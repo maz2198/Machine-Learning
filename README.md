@@ -19,7 +19,8 @@ Using data from Taarifa and the Tanzanian Ministry of Water, we were tasked to p
 A link to the project, dataset and the leaderboard can be observed [here](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/).
 
 The well documented script, `WaterPumpTanzaniaAnalysis.ipynb` associated with this model can be explored [here](https://github.com/maz2198/Machine-Learning/blob/master/ML2/WaterPumpTanzaniaAnalysis.ipynb). It contains the following:
- - Feature Engineering and Creation approaches,
+ - Feature Engineering namely **Frequency Encoding**, **Quantile Binning** and some novel missing imputation techniques 
+ - Feature Creation 
  - Modelling using **Decision Tree** with depth optimization, **Bagging**, **Random Forest** with hyperparameter tuning & **Principal Component Analysis**.
  - Comparative analysis of each model produced.
 
